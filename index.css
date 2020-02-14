@@ -1,0 +1,17 @@
+.pp{
+    width: 200;
+    height: 200;
+    opacity: 1;
+    background-color: aquamarine;
+    transition: 4s;
+    
+}
+
+div:nth-child(){
+    visibility: hidden;
+}
+
+
+.hh{
+    height: 0;
+}
